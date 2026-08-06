@@ -1,0 +1,4 @@
+Pillow>=10.0
+requests>=2.28
+pystray>=0.19
+keyboard>=0.13
